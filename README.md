@@ -23,7 +23,7 @@
 
 ## ᶻ𝗓 What is Napplied?
 
-**Napplied** is an **Agentic AI platform** reimagining how talent meets opportunity — powered by relevance, ontology, and deep contextual intelligence. Not your average job board. Not even close.
+**Napplied** is an **Agentic AI platform** reimagining how talent meets opportunity — powered by relevance, ontology, and deep contextual intelligence. Not your average HR Tech AI. Not even close.
 
 ```
 Human Intent
