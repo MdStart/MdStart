@@ -1,5 +1,5 @@
 # Hi, I'm Md 👋
-📍 **Bangalore ↔ Kolkata** | 🤖 **Agentic builder** | 🚀 **Napplied Founder**
+📍 **Bangalore, India** | 🤖 **Agentic builder** | 🚀 **Napplied Founder**
 
 ```
          Quick Profile Contents ...
