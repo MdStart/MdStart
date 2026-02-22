@@ -1,9 +1,10 @@
+
 ```
-Quick Profile Contents ...
-┌──────────────┬────────────────┬───────────────────────────────────┐
-│ Startup...   │ Open Source... │ Multi Agent Orchestrations        │
-│ Napplied AI  │ Coming soon    │      Build with me                │
-└──────────────┴────────────────┴───────────────────────────────────┘
+         Quick Profile Contents ...
+         ┌──────────────┬────────────────┬───────────────────────────────────┐
+         │ Startup...   │ Open Source... │ Multi Agent Orchestrations        │
+         │ Napplied AI  │ Coming soon    │      Build with me                │
+         └──────────────┴────────────────┴───────────────────────────────────┘
 ```
 
 
