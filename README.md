@@ -1,3 +1,5 @@
+# Hi, I'm Md 👋
+📍 **Bangalore ↔ Kolkata** | 🤖 **Polyagentmorous builder** | 🚀 **Napplied Founder**
 
 ```
          Quick Profile Contents ...
@@ -6,6 +8,11 @@
          │ Napplied AI  │ Coming soon    │      Build with me                │
          └──────────────┴────────────────┴───────────────────────────────────┘
 ```
+
+## Connects
+[![LinkedIn](https://img.shields.io/badge/-Md_Mahabub_Alam-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmahabubalam)
+[![GitHub](https://img.shields.io/badge/-Follow_Me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MdStart)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin_Napplied-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/napplied)
 
 
 <div align="center">
